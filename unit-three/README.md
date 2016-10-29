@@ -1,1 +1,1 @@
-# Unit Two - Drupal Layout & Theming.md
+# Unit Two - Drupal Layout & Theming
